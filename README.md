@@ -4,5 +4,8 @@ This repository only hosts release binaries: `.dmg` for a fresh install and `.zi
 
 Latest build: https://github.com/VibeAICoder/claude-recorder-dist/releases/latest
 
+<img width="1554" height="1012" alt="image" src="https://github.com/user-attachments/assets/b6a42bc7-7a3f-47d0-bb70-936a870d2bf9" />
+
+
 ## How to run on macOS
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4f575423-12c1-433f-ba66-023ac133df93" />
