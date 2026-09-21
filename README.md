@@ -1,6 +1,5 @@
-# Claude Recorder - bản cài
+# Claude Recorder - installers
 
-Repo này CHỈ chứa file cài (.dmg cho máy mới, .zip cho tính năng tự cập nhật trong app).
-Mã nguồn nằm ở repo riêng.
+This repository only hosts release binaries: `.dmg` for a fresh install and `.zip` used by the app to update itself. No source code lives here.
 
-Tải bản mới nhất: https://github.com/VibeAICoder/claude-recorder-dist/releases/latest
+Latest build: https://github.com/VibeAICoder/claude-recorder-dist/releases/latest
